@@ -23,9 +23,9 @@ Tällöin pelin lopputilannetta voi tarkastella hetken ennenkuin ohjelma
 sammuu.
 
 LISÄOMINAISUUKSIA
-1. Pelissä on vaihteleva määrä pelaajia.(10p)
-2. Pelaaja voi antaa pelaajille nimet (5p)
-5. Pelin aikana kerrotaan siihen käytetty aika(10p.)
+1. Pelissä on vaihteleva määrä pelaajia.
+2. Pelaaja voi antaa pelaajille nimet.
+5. Pelin aikana kerrotaan siihen käytetty aika.
 
 
 
